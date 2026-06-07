@@ -1,0 +1,25 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Archive files
+*.zip
+*.rar
+
+# GitHub Pages / build artifacts
+node_modules/
+.env
+
+# Ignore local editor swap files
+*~
+*.swp
